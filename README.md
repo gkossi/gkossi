@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Ingénieur DevOps et enthousiaste de La Cybersécurité, je maîtrise :
+- Docker : pour créer, déployer et exécuter des applications dans des conteneurs virtuels à base des images,
+- Kubernetes : pour l'orchestration de conteneurs, 
+- Terraform : pour la gestion du templating et le cloud provisioning, 
+- Ansible : pour la gestion des configurations, 
+- Git : pour le versionning de code et la collaboration sur des projets, 
+- Sonarqube : pour la gestion de la qualité, la couverture et la vulnérabilité de code 
+- Jenkins & GitlabCI : pour la gestion de la chaine CI/CD - les pipelines
+
+En matière de Cybersécurité, je fais à la fois de la Red Teaming et de la Blue Teaming
+
+Je développe également en Java JEE avec le Framework Spring Boot et j'adore aussi l'infographie et le Design. 
+
+J'aime travailler et développer mes compétences en DevOps avec les différentes technologies de la Tool chaîne CI/CD et sur les différents Cloud Provider : AWS, AZURE, GCP
+
+J'aime aussi travailler en équipe car je suis team Player et je m'investis complètement dans mon travail puisque je suis dynamique, autonome, ambitieux et rigoureux.
