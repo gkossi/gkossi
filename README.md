@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&origin=search&related_id=197443
+
+https://github.com/devicons/devicon/tree/v2.15.1/icons/
 -->
 
 <p align="center"><strong>Hi there !!!</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"/></p>
@@ -33,6 +35,9 @@ https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&
 <div align="center"> 
 <a href="https://aws.amazon.com" target="_blank">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank">
+	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45"/>
 </a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a> 
 <a href="https://kubernetes.io" target="_blank">
