@@ -30,12 +30,11 @@ https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&
 
 <div> 
 
+<p><img src="https://cdn-icons-png.flaticon.com/512/197/11378728.png" width="13"/></p>
+
 <a href="https://aws.amazon.com" target="_blank">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-	<img src="https://cdn-icons-png.flaticon.com/512/197/11378728.png" width="512"/>
-</a> 
-
-<a href="https://aws.amazon.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/197/11378728.png" width="512"/></a> 
+</a>
 
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a> 
 
