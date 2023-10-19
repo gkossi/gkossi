@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&origin=search&related_id=197443
 -->
 
-<p align="center"><strong>Hi there !!!</strong>   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"> </p>
+<p align="center"><strong>Hi there !!!</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"/></p>
 
 <div align="center">
 	<p>
@@ -25,7 +25,7 @@ https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&
 	</p> 
 </div>
 
-<h2> Mes compétences <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
+<h2> Les Technos que je maitrise <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> </h2>
 
 
 <div> 
