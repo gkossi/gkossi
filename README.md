@@ -31,7 +31,7 @@ https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&
 </h2>
 
 <div> 
-
+<center>
 <a href="https://aws.amazon.com" target="_blank">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
 </a>
@@ -81,4 +81,5 @@ https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&
 <a href="https://www.postgresql.org" target="_blank"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> 
 </a>
+</center>
 </div> 
