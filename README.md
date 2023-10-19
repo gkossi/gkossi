@@ -28,7 +28,7 @@ https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&
 <h2> Mes compétences <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
 
-<p align="left"> 
+<div> 
 
 <a href="https://aws.amazon.com" target="_blank">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> 
@@ -98,4 +98,4 @@ https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> 
 </a>
 
-</p> 
+</div> 
