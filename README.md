@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&origin=search&related_id=197443
 -->
+
+<p>I'm Kossi GBENOU, DevOps from <img src="https://cdn-icons-png.flaticon.com/512/197/197443.png" width="13"/> <b>Lomé, TOGO</b> </p> 
+
 
 Ingénieur DevOps et enthousiaste de La Cybersécurité, je maîtrise :
 - Docker : pour créer, déployer et exécuter des applications dans des conteneurs virtuels à base des images,
