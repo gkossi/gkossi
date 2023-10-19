@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **gkossi/gkossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,15 @@ Here are some ideas to get you started:
 https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&origin=search&related_id=197443
 -->
 
-<p>Je m'appelle Kossi GBENOU, Ingénieur DevOps et enthousiaste de La Cybersécurité depuis <img src="https://cdn-icons-png.flaticon.com/512/197/197443.png" width="13"/> <b>Lomé, TOGO</b> </p> 
+<p align="center"><strong>Hi there !!!</strong>   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"> </p>
+
+<div align="center">
+	<p>Je m'appelle Kossi GBENOU, Ingénieur DevOps et enthousiaste de La Cybersécurité depuis <img src="https://cdn-icons-png.flaticon.com/512/197/197443.png" width="13"/> <b>Lomé, TOGO</b></p> 
+</div>
+
+<h2> Mes compétences <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
+
+
 
 
 Ingénieur DevOps et enthousiaste de La Cybersécurité, je maîtrise :
