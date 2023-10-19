@@ -18,7 +18,7 @@ https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&
 
 <p>I'm Kossi GBENOU, DevOps from <img src="https://cdn-icons-png.flaticon.com/512/197/197443.png" width="13"/> <b>Lomé, TOGO</b> </p>
 
-<p>Je m'appelle Kossi GBENOU, Ingénieur DevOps et enthousiaste de La Cybersécurité depuis <img src="https://cdn-icons-png.flaticon.com/512/197/197443.png" width="13"/> <b>Lomé, TOGO</b> </p> 
+<p>Je m'appelle Kossi GBENOU, Ingénieur DevOps et enthousiaste de La Cybersécurité depuis <img src="https://cdn-icons-png.flaticon.com/512/512/197443.png" width="13"/> <b>Lomé, TOGO</b> </p> 
 
 
 Ingénieur DevOps et enthousiaste de La Cybersécurité, je maîtrise :
