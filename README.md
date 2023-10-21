@@ -36,13 +36,14 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 <a href="https://aws.amazon.com" target="_blank">
 	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45"/>
 </a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
+<a href="https://azure.microsoft.com/" target="_blank">
+	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original-wordmark.svg" alt="Mircosoft Azure" width="45" height="45"/>
+</a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a> 
 <a href="https://kubernetes.io" target="_blank">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45"/>
 </a> 
 <a href="https://www.jenkins.io" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
 	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
 </a>
 <a href="https://argoproj.github.io/cd/" target="_blank">
