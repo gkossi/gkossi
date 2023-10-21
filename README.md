@@ -69,7 +69,9 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="45" height="45"/> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> 
 </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/></a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> 
+	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>  
+</a>
 <a href="https://www.nginx.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45"/></a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="45" height="45"/> 
 
