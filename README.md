@@ -84,9 +84,6 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 <a href="https://nodejs.org" target="_blank"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> 
 </a--> 
-<a href="https://www.php.net" target="_blank"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> 
-</a> 
 <a href="https://www.python.org" target="_blank"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/> 
 </a> 
@@ -94,8 +91,10 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
 </a> 
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-plain-wordmark.svg" alt="html5" width="45" height="45"/> 
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="45" height="45"/>  
-
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="45" height="45"/> 
+<a href="https://www.php.net" target="_blank"> 
+	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" alt="php" width="45" height="45"/>  
+</a> 
 <a href="https://www.mysql.com/" target="_blank"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
 </a> 
