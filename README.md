@@ -39,6 +39,13 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 <a href="https://azure.microsoft.com/" target="_blank">
 	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original-wordmark.svg" alt="Mircosoft Azure" width="45" height="45"/>
 </a>
+<a href="https://git-scm.com/" target="_blank">
+	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-plain-wordmark.svg" alt="Git" width="45" height="45"/>
+</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45"/> 
+<a href="https://gitlab.com/" target="_blank">
+	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-plain-wordmark.svg" alt="GitLab" width="45" height="45"/>
+</a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a> 
 <a href="https://kubernetes.io" target="_blank">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="45" height="45"/>
@@ -54,8 +61,6 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="45" height="45"/></a> 
 <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="45" height="45"/></a> 
 <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="45" height="45"/></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="45" height="45"/>
 
 <br/>
 
@@ -67,7 +72,6 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/></a> 
 <a href="https://www.nginx.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45"/></a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="45" height="45"/> 
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/></a>
 
 <br/>
 
