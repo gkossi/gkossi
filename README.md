@@ -27,6 +27,19 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 	</p> 
 </div>
 
+<div align="center">
+	<p>
+		<strong>Hi there !!!</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"/>
+		Ici, Kossi GBENOU, Ingénieur DevOps et enthousiaste de La Cybersécurité depuis 
+		<img src="https://cdn-icons-png.flaticon.com/512/197/197443.png" width="13"/> 
+		<b>Lomé, TOGO</b>
+	</p> 
+	<p>
+		<h2>Voici les Technos sur lesquelles je travaille</h2>
+		<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> 
+	</p>
+</div>
+
 <h2> 
 	Les Technos que je maitrise 
 	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> 
@@ -42,7 +55,7 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 <a href="https://git-scm.com/" target="_blank">
 	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-plain-wordmark.svg" alt="Git" width="45" height="45"/>
 </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45"/>
 <a href="https://gitlab.com/" target="_blank">
 	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-plain-wordmark.svg" alt="GitLab" width="45" height="45"/>
 </a>
