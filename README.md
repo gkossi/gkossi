@@ -17,7 +17,7 @@ https://www.flaticon.com/free-icon/togo_197443?term=togo+flag&page=1&position=1&
 https://github.com/devicons/devicon/tree/v2.15.1/icons/
 -->
 
-<p align="center"><strong>Hi there !!!</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"/></p>
+<!--p align="center"><strong>Hi there !!!</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"/></p>
 
 <div align="center">
 	<p>
@@ -25,7 +25,7 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 		<img src="https://cdn-icons-png.flaticon.com/512/197/197443.png" width="13"/> 
 		<b>Lomé, TOGO</b>
 	</p> 
-</div>
+</div-->
 
 <div align="center">
 	<p>
@@ -39,11 +39,6 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 		<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> 
 	</p>
 </div>
-
-<h2> 
-	Les Technos que je maitrise 
-	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> 
-</h2>
 
 <div align="center"> 
 <a href="https://aws.amazon.com" target="_blank">
