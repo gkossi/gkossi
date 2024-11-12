@@ -51,8 +51,8 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45"/>
-<a href="https://gitlab.com/" target="_blank">
-	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-plain-wordmark.svg" alt="GitLab" width="45" height="45" style="color:blue;"/>
+<a style="color:blue;" href="https://gitlab.com/" target="_blank">
+	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-plain-wordmark.svg" alt="GitLab" width="45" height="45"/>
 </a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a> 
 <a href="https://kubernetes.io" target="_blank">
