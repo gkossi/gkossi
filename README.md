@@ -40,7 +40,7 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 	</p>
 </div>
 
-<div align="center" style="background-color:white;"> 
+<div align="center"> 
 <a href="https://aws.amazon.com" target="_blank">
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
 </a>
