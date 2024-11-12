@@ -42,7 +42,7 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 
 <div align="center"> 
 <a href="https://aws.amazon.com" target="_blank">
-	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45"/>
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
 </a>
 <a href="https://azure.microsoft.com/" target="_blank">
 	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original-wordmark.svg" alt="Mircosoft Azure" width="45" height="45"/>
