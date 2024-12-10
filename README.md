@@ -29,8 +29,8 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 
 <div align="center">
 	<p>
-		<strong>Hi there !!!</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"/>
-		Ici, Kossi GBENOU, Ingénieur DevOps et enthousiaste de La Cybersécurité depuis 
+		<strong>Hello !!!</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"/></br>
+		Ici, Kossi GBENOU, Ingénieur DevOps/Cloud & Cybersécurité depuis 
 		<img src="https://cdn-icons-png.flaticon.com/512/197/197443.png" width="13"/> 
 		<b>Lomé, TOGO</b>
 	</p> 
