@@ -32,7 +32,7 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons/
 		<strong>Hello !!!</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"/></br>
 		Ici, Kossi GBENOU, Consultant DevOps/Cloud & Cybersécurité depuis 
 		<!--img src="https://cdn-icons-png.flaticon.com/512/197/197443.png" width="13"/-->
-		<img src="https://cdn-icons-png.flaticon.com/128/197/197430.png" width="26"/>
+		<img src="https://cdn-icons-png.flaticon.com/128/197/197430.png" width="30"/>
 		<b>Montréal, Canada</b>
 	</p> 
 	<p>
